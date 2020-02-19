@@ -1,2 +1,3 @@
 2IND - GIT
--> Versao1
+-> Versao1 
+-> Versao2
